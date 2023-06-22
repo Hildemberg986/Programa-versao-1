@@ -18,18 +18,22 @@ while fim != '0':
     print('   4 - DELETAR CLIENTE')
     print('   0 - SAIR')
     option = input('Escolha sua opção ? ')
-    if option == '1'
+    if option == '1':
         clear()
         print ('opção 1')
+        input(' Pressione enter para continuar...')
     elif option == '2':
         clear()
         print ('opção 2')
+        input(' Pressione enter para continuar...')
     elif option == '3':
         clear()
         print('opçao 3')
+        input(' Pressione enter para continuar...')
     elif option == '4':
         clear()
         print ('opção 4')
+        input(' Pressione enter para continuar...')
     elif option == '0':
         clear()
         print ('Programa encerrado!')
